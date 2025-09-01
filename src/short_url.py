@@ -72,5 +72,4 @@ def run_interface():
         else:
             print("Invalid choice. Please enter a number between 1 and 4.")
 
-# To run the interface, you would call:
 run_interface()
