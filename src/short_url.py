@@ -72,4 +72,5 @@ def run_interface():
         else:
             print("Invalid choice. Please enter a number between 1 and 4.")
 
-run_interface()
+if __name__ == "__main__":
+    run_interface()
